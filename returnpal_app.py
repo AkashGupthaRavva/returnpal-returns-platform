@@ -5,7 +5,7 @@ from utils.evaluator import evaluate_return_request
 import base64
 
 # 🔐 Firebase Setup
-API_KEY = "AIzaSyBaMcUWcLWfyYwIYXRmaeZhBKZCK-rJHSo"
+API_KEY = "API KEY"
 PROJECT_ID = "returnssaas"
 BASE_URL = f"https://firestore.googleapis.com/v1/projects/{PROJECT_ID}/databases/(default)/documents"
 REQUESTS_COLLECTION = "return_requests"
